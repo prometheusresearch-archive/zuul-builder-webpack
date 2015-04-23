@@ -8,8 +8,8 @@ This plugin for zuul only works against a fork of zuul (PR is pending to be
 merged to upstream soon) with allows to configure zuul through js code which is
 vital for webpack configuration:
 
-  % npm install andreypopp/zuul#js-config
-  % npm install prometheusresearch/zuul-webpack-builder
+    % npm install andreypopp/zuul#js-config
+    % npm install prometheusresearch/zuul-webpack-builder
 
 ## Usage
 
