@@ -4,12 +4,11 @@ Webpack builder for zuul test runner.
 
 ## Installation
 
-This plugin for zuul only works against a fork of zuul (PR is pending to be
-merged to upstream soon) with allows to configure zuul through js code which is
-vital for webpack configuration:
+You need to install ``zuul`` and ``zuul-webpack-builder`` packages:
 
-    % npm install andreypopp/zuul#js-config
-    % npm install prometheusresearch/zuul-webpack-builder
+    % npm install zuul zuul-webpack-builder
+
+Zuul of version of >= 3 is supported.
 
 ## Usage
 
