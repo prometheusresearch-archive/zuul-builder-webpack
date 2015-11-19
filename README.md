@@ -6,7 +6,7 @@ Webpack builder for zuul test runner.
 
 You need to install ``zuul`` and ``zuul-builder-webpack`` packages:
 
-    % npm install zuul zuul-webpack-builder
+    % npm install zuul zuul-builder-webpack
 
 Zuul of version of >= 3 is supported.
 
