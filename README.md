@@ -18,7 +18,7 @@ Create the following ``zuul.config.js``:
       builder: 'zuul-builder-webpack',
       webpack: {
         // webpack config goes here
-        // you can also just do require('./webpack.config')
+        // you can also just do require('./webpack.config') or './webpack.config'
         // to reference your webpack configuration
       }
     };
